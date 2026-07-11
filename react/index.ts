@@ -25,6 +25,7 @@ export const ListIcon = createSfIcon("list.dash");
 export const HeartIcon = createSfIcon("heart");
 export const ShuffleIcon = createSfIcon("shuffle");
 export const MicrophoneIcon = createSfIcon("microphone");
+export const ShareIcon = createSfIcon("square.and.arrow.up");
 
 export { StarIcon } from "./StarIcon";
 export { RepeatIcon } from "./RepeatIcon";
