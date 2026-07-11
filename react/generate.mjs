@@ -34,6 +34,7 @@ const MANIFEST = {
   "repeat.1": "repeat.1",
   microphone: "microphone",
   "square.and.arrow.up": "square.and.arrow.up",
+  "square.and.arrow.down": "square.and.arrow.down",
 };
 
 function parseSvg(filePath) {
