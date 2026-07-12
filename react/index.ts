@@ -27,6 +27,18 @@ export const ShuffleIcon = createSfIcon("shuffle");
 export const MicrophoneIcon = createSfIcon("microphone");
 export const ShareIcon = createSfIcon("square.and.arrow.up");
 export const ImportIcon = createSfIcon("square.and.arrow.down");
+export const MusicNoteListIcon = createSfIcon("music.note.list");
+export const LinkIcon = createSfIcon("link");
 
 export { StarIcon } from "./StarIcon";
 export { RepeatIcon } from "./RepeatIcon";
+
+export const GearIcon = createSfIcon("gearshape");
+export const PersonIcon = createSfIcon("person.2");
+export const ShieldIcon = createSfIcon("shield");
+export const InfoIcon = createSfIcon("info");
+export const ArrowRightIcon = createSfIcon("arrow.right");
+export const CreditCardIcon = createSfIcon("creditcard");
+export const QuestionMarkIcon = createSfIcon("questionmark.circle.dashed");
+export const SignOutIcon = createSfIcon("rectangle.portrait.and.arrow.right");
+export const CheckmarkIcon = createSfIcon("checkmark");

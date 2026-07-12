@@ -35,6 +35,17 @@ const MANIFEST = {
   microphone: "microphone",
   "square.and.arrow.up": "square.and.arrow.up",
   "square.and.arrow.down": "square.and.arrow.down",
+  "music.note.list": "music.note.list",
+  link: "link",
+  gearshape: "gearshape",
+  "person.2": "person.2",
+  shield: "shield",
+  info: "info",
+  "arrow.right": "arrow.right",
+  creditcard: "creditcard",
+  "questionmark.circle.dashed": "questionmark.circle.dashed",
+  "rectangle.portrait.and.arrow.right": "rectangle.portrait.and.arrow.right",
+  checkmark: "checkmark",
 };
 
 function parseSvg(filePath) {
