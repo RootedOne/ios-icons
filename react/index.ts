@@ -42,3 +42,4 @@ export const CreditCardIcon = createSfIcon("creditcard");
 export const QuestionMarkIcon = createSfIcon("questionmark.circle.dashed");
 export const SignOutIcon = createSfIcon("rectangle.portrait.and.arrow.right");
 export const CheckmarkIcon = createSfIcon("checkmark");
+export const CameraIcon = createSfIcon("camera");

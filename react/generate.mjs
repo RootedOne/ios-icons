@@ -46,6 +46,7 @@ const MANIFEST = {
   "questionmark.circle.dashed": "questionmark.circle.dashed",
   "rectangle.portrait.and.arrow.right": "rectangle.portrait.and.arrow.right",
   checkmark: "checkmark",
+  camera: "camera",
 };
 
 function parseSvg(filePath) {
