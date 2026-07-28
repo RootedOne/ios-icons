@@ -32,6 +32,8 @@ export const LinkIcon = createSfIcon("link");
 
 export { StarIcon } from "./StarIcon";
 export { RepeatIcon } from "./RepeatIcon";
+export { ArrowDownCircleIcon } from "./ArrowDownCircleIcon";
+export { PieProgressDownloadIcon } from "./PieProgressDownloadIcon";
 
 export const GearIcon = createSfIcon("gearshape");
 export const PersonIcon = createSfIcon("person.2");
@@ -43,3 +45,4 @@ export const QuestionMarkIcon = createSfIcon("questionmark.circle.dashed");
 export const SignOutIcon = createSfIcon("rectangle.portrait.and.arrow.right");
 export const CheckmarkIcon = createSfIcon("checkmark");
 export const CameraIcon = createSfIcon("camera");
+export const CryptoIcon = createSfIcon("crypto");

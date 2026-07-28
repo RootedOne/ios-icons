@@ -47,6 +47,7 @@ const MANIFEST = {
   "rectangle.portrait.and.arrow.right": "rectangle.portrait.and.arrow.right",
   checkmark: "checkmark",
   camera: "camera",
+  crypto: "banknote",
 };
 
 function parseSvg(filePath) {
